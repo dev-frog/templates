@@ -34,6 +34,7 @@ $ curl -L "https://raw.githubusercontent.com/dev-frog/templates/main/exploit.py"
 
 ```bash
 
-$ curl -L "https://raw.githubusercontent.com/dev-frog/templates/main/CF.h" -o stdc++.h
+$ curl -L "https://raw.githubusercontent.com/dev-frog/templates/main/CF.h" -o CF.h
+$ curl -L "https://raw.githubusercontent.com/dev-frog/templates/main/CF.cpp" -o CF.h
 
 ```
