@@ -2,6 +2,8 @@
 using namespace std;
 
 typedef long long ll;
+typedef long double ld;
+typedef unsigned long long ull;
 typedef pair<int,int> pii;
 typedef pair<ll,ll> pll;
 typedef vector<ll> vi;
@@ -20,19 +22,26 @@ typedef unordered_map <ll,ll> map;
 #define mems(x,y) memset(x,y,sizeof(x))
 #define sz(v) (v).size()
 #define mp(a,b) make_pair(a,b)
-#define pf(n) cout<<n<<'\n'
+#define pf(n) cout<<n<<'\n';
 #define pff(n) cout << n << " ";
 #define ar array;
 #define endl "\n"
 #define int ll
-#define time cerr << "\nTime elapsed: "<< 1000 * clock() / CLOCKS_PER_SEC << "ms\n"
+#define CPU cerr << "\nTime elapsed: "<< 1000 * clock() / CLOCKS_PER_SEC << "ms\n"
+#define bug(x) cerr<<"value of"<<#x<<" is "<<x<<"\n";
 
-long const M=1e9+7;
+
+const long M=1e9+7;
 const long mxN = 1e5+2;
+const ll inf = 1e18+5;
+const ld pi = 3.141592653589793;
 
+
+
+int64_t n,k,t;
 
 void solve(){
-
+    
 }
 
 
